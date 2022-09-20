@@ -7,7 +7,7 @@ React, MUI
 
 ## Description
 
-This app allows you to watch youtube videos and search youtube videos
+Еhis app allows you to watch youtube videos and search youtube videos
 
 ___
 
